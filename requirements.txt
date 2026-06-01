@@ -1,0 +1,19 @@
+# Core data science
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn==1.5.2
+xgboost>=1.7.0
+
+# Time-series models
+statsmodels>=0.14.0
+prophet>=1.1.5
+
+# Visualisation
+matplotlib>=3.6.0
+
+# Jupyter (for running notebooks locally)
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.0.0
